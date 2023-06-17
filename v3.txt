@@ -1,5 +1,3 @@
-This is v3 .txt
-theni,m
-ljsdlj
-fskd
-
+doing some thing with v3
+:wq
+what are you doing
